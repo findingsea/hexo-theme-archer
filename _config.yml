@@ -2,13 +2,13 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: Lawrence Lin
 # signature
 signature: witness me
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: findingsea@qq.com
+  github: //github.com/findingsea
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
   qq: 
@@ -37,9 +37,9 @@ about:
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: findingsea's Studio
 # main title
-main_title: fi3ework's Studio.
+main_title: findingsea's Studio.
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
